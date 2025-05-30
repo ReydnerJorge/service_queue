@@ -7,8 +7,8 @@ class Paciente:
         self.id = id
         self.nome = nome
         self.gravidade = gravidade # 1 a 5 (1 = mais grave)
-        self.hora_chegada = hora_chegada
-        self.especialidade = None
+        self.hora_chegada = hora_chegada if hora_chegada else time.time()
+        self.especialidade = especialidade
         self.hora_saida = None
 
     ##def __str__(self):

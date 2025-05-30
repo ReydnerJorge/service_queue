@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5ea93d8-08e2-4ec0-8739-0253d068361f" name="Changes" comment="feat: add código do modulo da aplicação">
+    <list default="true" id="a5ea93d8-08e2-4ec0-8739-0253d068361f" name="Changes" comment="feat: add .gitignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/especialidade.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/especialidade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/fila.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/fila.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/medico.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/medico.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/paciente.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/paciente.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748550974325</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: add .gitignore">
+      <option name="closed" value="true" />
+      <created>1748634777957</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1748634777957</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +151,7 @@
     <MESSAGE value="feat: new Project" />
     <MESSAGE value="feat: estrutura do projeto." />
     <MESSAGE value="feat: add código do modulo da aplicação" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add código do modulo da aplicação" />
+    <MESSAGE value="feat: add .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add .gitignore" />
   </component>
 </project>
