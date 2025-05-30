@@ -1,0 +1,53 @@
+# Arquivo .gitignore para projeto Python
+
+# Ignora arquivos do ambiente virtual Python
+venv/
+.env/
+ENV/
+
+# Ignora arquivos de configuração do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignora arquivos de configuração do VS Code
+.vscode/
+
+# Ignora arquivos de banco de dados SQLite
+*.sqlite
+*.db
+
+# Ignora arquivos de cache e logs
+*.log
+*.cache
+.pytest_cache/
+
+# Ignora arquivos de ambiente
+.env
+.venv
+env/
+venv/
+
+# Ignora arquivos gerados pelo Python
+*.egg-info/
+dist/
+build/
+
+# Ignora arquivos de IDE
+.idea/
+*.swp
+*.swo
+
+# Ignora arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignora arquivos de dados temporários
+*.tmp
+*.temp
+
+# Ignora arquivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignora configurações pessoais
+settings.ini
