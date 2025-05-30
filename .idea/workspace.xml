@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5ea93d8-08e2-4ec0-8739-0253d068361f" name="Changes" comment="feat: add .gitignore">
+    <list default="true" id="a5ea93d8-08e2-4ec0-8739-0253d068361f" name="Changes" comment="feat: update models">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/especialidade.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/especialidade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/fila.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/fila.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/medico.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/medico.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/paciente.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/paciente.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/atendimento.py" beforeDir="false" afterPath="$PROJECT_DIR$/services/atendimento.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/relatorios.py" beforeDir="false" afterPath="$PROJECT_DIR$/services/relatorios.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/triagem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/calculos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/geradores.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/geradores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/visualizacao.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748634777957</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat: update models">
+      <option name="closed" value="true" />
+      <created>1748636377939</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1748636377939</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +164,7 @@
     <MESSAGE value="feat: estrutura do projeto." />
     <MESSAGE value="feat: add código do modulo da aplicação" />
     <MESSAGE value="feat: add .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add .gitignore" />
+    <MESSAGE value="feat: update models" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: update models" />
   </component>
 </project>
